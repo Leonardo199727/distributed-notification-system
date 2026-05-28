@@ -17,17 +17,3 @@ The system isolates core business operations from heavy notification processing 
 * **Containerization:** Docker & Docker Compose
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your local environment:
-* Java 17 JDK or higher
-* Apache Maven 3.8+
-* Docker Desktop & Docker Compose
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/distributed-notification-system.git](https://github.com/YOUR_USERNAME/distributed-notification-system.git)
-cd distributed-notification-system
